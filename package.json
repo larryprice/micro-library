@@ -1,0 +1,26 @@
+{
+  "name": "micro-library",
+  "version": "0.0.1",
+  "description": "Simple interface to generate your own personal library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larryprice/micro-library.git"
+  },
+  "keywords": [
+    "library",
+    "books"
+  ],
+  "author": "Larry Price <larry.price.dev@gmail.com> (https://larry-price.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larryprice/micro-library/issues"
+  },
+  "homepage": "https://github.com/larryprice/micro-library",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
